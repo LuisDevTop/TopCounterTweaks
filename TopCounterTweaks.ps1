@@ -1,17 +1,3 @@
-##########
-# Master Branch : https://github.com/ChrisTitusTech/win10script
-# Current Author : Daddy Madu 
-# Current Author Source: https://github.com/DaddyMadu/Windows10GamingFocus
-#
-#    Note from author: Never run scripts without reading them & understanding what they do.
-#
-#	Addition: One command to rule them all, One command to find it, and One command to Run it! 
-#
-#     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('http://madu.gg/ps')"
-#
-#     Changelogs Moved to ReadMe File for better mangement. 
-#
-##########
 $host.ui.RawUI.WindowTitle = "TopCounter Debloater"
 cmd /c 'title [TopCounter Debloater]'
 Write-Host 'TopCounter Debloater';
